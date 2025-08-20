@@ -1,2 +1,8 @@
 # NixOS_Config
-config files for my nixos system
+
+Content of repo:
+- [ ] base config with apps
+- [ ] custom UI (hyprland + i3)
+- [ ] dev environments
+- [ ] scripts
+
